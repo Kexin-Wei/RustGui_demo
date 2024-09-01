@@ -1,0 +1,8 @@
+[workspace]
+resolver = "2"
+members = [
+    "Rust101/01-hello-rust",
+    "Rust101/02-print-a-string",
+    "Rust101/00-write-read-a-txt",
+    "Rust101/03-variable",
+]
